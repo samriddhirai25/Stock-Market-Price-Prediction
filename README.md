@@ -1,2 +1,1 @@
-# Stock-Market-Price-Prediction
-It helps to predict the future value of company stock and other financial assets traded on an exchange.
+Stock Price Prediction using machine learning algorithm helps to discover the future value of company stock and other financial assets traded on an exchange. The entire idea of predicting stock prices is to gain significant profits. Predicting how the stock market will perform is a hard task to do. There are other factors involved in the prediction, such as physical and psychological factors, rational and irrational behavior, and so on. All these factors combine to make share prices dynamic and volatile.
